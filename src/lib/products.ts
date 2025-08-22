@@ -1,0 +1,72 @@
+export const products = [
+    {
+        id: 1,
+        name: "Camisa Polo Azul",
+        price: 79.9,
+        image: "/camisa-polo-azul.png",
+        description: "Camisa polo de algodão, confortável e elegante"
+    },
+     {
+    id: 2,
+    name: "Tênis Esportivo Branco",
+    price: 249.9,
+    image: "/tenis-branco.png",
+    description: "Ideal para corrida e academia.",
+  },
+  {
+    id: 3,
+    name: "Relógio Digital Preto",
+    price: 199.0,
+    image: "/relogio-digital.png",
+    description: "Relógio resistente à água com cronômetro.",
+  },
+  {
+    id: 4,
+    name: "Notebook Gamer 15.6”",
+    price: 4999.0,
+    image: "/notebook-gamer.png",
+    description: "Notebook com placa de vídeo dedicada e teclado RGB.",
+  },
+  {
+    id: 5,
+    name: "Headset Bluetooth",
+    price: 349.9,
+    image: "/headset-bluetooth.png",
+    description: "Som estéreo de alta qualidade com cancelamento de ruído.",
+  },
+  {
+    id: 6,
+    name: "Camiseta Básica Preta",
+    price: 49.9,
+    image: "/camisa-preta.png",
+    description: "Camiseta 100% algodão, estilo casual.",
+  },
+  {
+    id: 7,
+    name: "Mochila Executiva",
+    price: 189.0,
+    image: "/mochila-executiva.png",
+    description: "Mochila reforçada com compartimento para notebook.",
+  },
+  {
+    id: 8,
+    name: "Smartphone Android 128GB",
+    price: 2499.0,
+    image: "/smartphone-android.png",
+    description: "Tela AMOLED, câmera tripla e bateria de longa duração.",
+  },
+  {
+    id: 9,
+    name: "Cadeira Gamer Vermelha",
+    price: 1299.0,
+    image: "/cadeira-gamer.png",
+    description: "Ergonômica, reclinável e com apoio para braços ajustáveis.",
+  },
+  {
+    id: 10,
+    name: "Óculos de Sol Polarizado",
+    price: 159.0,
+    image: "/oculos-polarizado.png",
+    description: "Proteção UV400 com armação leve e resistente.",
+  },
+]
